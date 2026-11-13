@@ -1,6 +1,6 @@
 cask "penumbra" do
-  version "0.1.0"
-  sha256 "128f5ee0abb83428cbd14a2ebeb62bf2e2d3a81c42b65025e84605c714dbe1f4"
+  version "0.1.1"
+  sha256 "841afea77cc3d9bf4866f0076f478e3d251c36b1ec7d2d88821e0b2e10091993"
 
   url "https://github.com/juanmacuevas/penumbra-mac/releases/download/v#{version}/Penumbra-#{version}.zip"
   name "Penumbra"
